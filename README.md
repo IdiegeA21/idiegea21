@@ -65,10 +65,6 @@ I am currently open to full-stack development and IT support roles, remote or on
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdiegeA21&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IdiegeA21&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-
 ---
 
 ## Featured Work

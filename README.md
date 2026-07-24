@@ -61,51 +61,22 @@ I am currently open to full-stack development and IT support roles, remote or on
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IdiegeA21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdiegeA21&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IdiegeA21&theme=tokyo-night&hide_border=true&area=true"/>
+  
 </div>
 
 ---
 
-## Featured Work
+##  Featured Projects
 
-### PraiseJA — praiseja.com
-A testimonial-sharing platform I designed, built, and deployed independently end-to-end, covering frontend, backend, database architecture, and deployment.
-
-- Built on Node.js, Express, and MongoDB
-- Dynamic JSON-LD generation for individual testimony pages, enabling structured indexing of user-generated content
-- Custom Open Graph and Twitter Card metadata per route for accurate social previews
-- XML sitemap and robots.txt configured for crawl efficiency
-- llms.txt implemented to support indexing by AI-driven search and discovery tools
-- Deployed on Railway with a custom domain and SSL
-
-### Quizarly
-An AI-powered quiz and assessment generation platform built for schools, organizations, and tutors.
-
-- Built on Nest and Next,
-- Integrated the OpenAI / ChatGPT API to enable automated, context-aware quiz generation
-- Full-stack architecture covering content generation, user management, and assessment delivery
-- Designed for scalability across multiple institutional users
-
-### Checkamo
-A real-time trust verification marketplace connecting users with verifiers for people, products, and places.
-
-- Built on Nest and Next,
-- Designed and built the core API architecture and real-time communication layer
-- Managed user session handling and multi-party data flows
-- Currently in active platform redesign based on real-world usage data gathered post-MVP
-
-### Technical SEO Recovery — Production Incident
-Brought in to resolve a security and visibility incident where a production site had been flagged by Google as unsafe due to a compromised proxy link embedded in its infrastructure.
-
-- Identified and removed the malicious proxy configuration
-- Rebuilt the affected architecture to close the vulnerability
-- Submitted a documented reconsideration request through Google Search Console
-- Restored full search visibility and removed the safety warning
-
-### Cloemart & MYmentio
-Earlier backend work building scalable e-commerce and healthcare consultation systems using Node.js, Express, and MongoDB, covering product catalog systems, secure session management, and booking workflows.
-
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| **PraiseJA** | Testimonial sharing platform with AI-ready SEO and scalable backend architecture. | Next.js · Node.js · Express · MongoDB · Railway |
+| **Quizarly** | AI-powered assessment and quiz generation platform for schools and organizations. | Next.js · NestJS · OpenAI · PostgreSQL |
+| **Checkamo** | Trust verification marketplace with real-time communication and verification workflows. | Next.js · NestJS · Socket.IO · PostgreSQL |
+| **Cloemart** | E-commerce platform supporting product management, orders and secure authentication. | Node.js · Express · MongoDB |
+| **MYmentio** | Healthcare consultation and appointment platform. | Node.js · Express · MongoDB |
+| **Technical SEO Recovery** | Restored a compromised production website, removed malware, and recovered Google Search visibility. | Google Search Console · Technical SEO |
 ---
 
 ## Teaching & Mentorship
